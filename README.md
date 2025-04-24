@@ -11,7 +11,9 @@ ADMIN_LOGINPAGE
 ADMIN_DASHBOARD
 ![image](https://github.com/user-attachments/assets/9d18bbb2-aa90-4cd5-99b6-e9cb7c5dc9c2)
 ![image](https://github.com/user-attachments/assets/b3f07cc4-2fd2-4297-b1e3-78db9d565aa3)
+UPDATE_STOCKS
 ![image](https://github.com/user-attachments/assets/24cf5b1e-0b07-4458-bd42-a2eea6f210ae)
+USER_MANAGEMENT
 ![image](https://github.com/user-attachments/assets/1fa9c5fb-4484-4696-ad47-6db4b3977258)
 ![image](https://github.com/user-attachments/assets/dfcfd48a-245e-47fb-bd05-f5c31c311eae)
 ![image](https://github.com/user-attachments/assets/8e511df0-f323-409f-b6be-c36d6d28bd18)
