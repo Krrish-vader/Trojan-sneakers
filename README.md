@@ -15,8 +15,11 @@ UPDATE_STOCKS
 ![image](https://github.com/user-attachments/assets/24cf5b1e-0b07-4458-bd42-a2eea6f210ae)
 USER_MANAGEMENT
 ![image](https://github.com/user-attachments/assets/1fa9c5fb-4484-4696-ad47-6db4b3977258)
+ORDERS_INFORMATION
 ![image](https://github.com/user-attachments/assets/dfcfd48a-245e-47fb-bd05-f5c31c311eae)
+ORDER_ANALYTICS
 ![image](https://github.com/user-attachments/assets/8e511df0-f323-409f-b6be-c36d6d28bd18)
+USING MONGODB USED TO STORE ORDER USERS AND STOCKS DATA IN MY LOCALHOST SYSTEM
 ![image](https://github.com/user-attachments/assets/ba3e899f-325c-40a2-a1c7-730797a682bd)
 ![image](https://github.com/user-attachments/assets/c9e53b28-8e82-498a-9b49-6796eba40d04)
 
